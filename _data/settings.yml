@@ -1,0 +1,34 @@
+# ========================================================
+# Site & Brand Configuration
+# ========================================================
+title: "Rick Colosimo"
+tagline: "SIMPLIFYING COMPLEX BOARD DECISIONS"
+description: "Rick Colosimo – Simplifying complex board decisions"
+author: "Rick Colosimo"
+
+# ========================================================
+# Contact Information
+# Rendered in the burgundy contact bar across all pages
+# ========================================================
+contact_title: "CONTACT RICK COLOSIMO"
+email: "rick@thoughtstorm.com"
+phone: "646.701.1080"
+address: "P.O. Box 508, Ridgewood, NJ 07451"
+badge_image: "/assets/uploads/2019/12/badge.png"
+
+# ========================================================
+# Social Media & Sidebar Links
+# ========================================================
+twitter_label: "Follow Rick on Twitter"
+twitter_url: "https://twitter.com/rickcolosimo"
+linkedin_url: "https://www.linkedin.com/in/rickcolosimo"
+facebook_url: "https://www.facebook.com/rickcolosimo"
+
+# ========================================================
+# Footer & Copyright Information
+# ========================================================
+copyright_year_start: "2008"
+copyright_name: "RICK COLOSIMO"
+footer_credit: "SITE DESIGN: BRIGHT BIRD CREATIVE"
+footer_credit_url: "http://brightbirdcreative.com/"
+footer_credit_icon: "/assets/uploads/2018/08/icon-21x16-bbc-white.png"
