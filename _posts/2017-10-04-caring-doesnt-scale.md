@@ -32,4 +32,5 @@ Caring doesn’t scale. #StartupRules
 – Robert C. Martin, Clean Code: A Handbook of Agile Software Craftsmanship
 
 That seldom happens with contracts (they’re usually a symptom, not a disease), but it definitely happens with bad processes or weak business models.  
+
 It never happens with caring.
